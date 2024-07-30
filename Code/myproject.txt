@@ -1,0 +1,66 @@
+#include <iostream>
+using namespace std;
+
+class Queue {  //class declaration as Queue
+	int size;  //variable in class Queue
+	int* queue; //pointer to address of variable queue
+
+	public:  //access specifier
+	Queue() { //constructor
+		size = 0; //initialize variable size with starting value 0
+		queue = new int[100]; //initialize dynamic array queue with size 100
+	}
+	void remove() {  //declare Queue function remove()
+		if (size == 0) {  //define argument for remove function using size variable
+			cout << "Queue is empty"<<endl;  //display if size is 0 when remove() function is called
+			return;  //ends function, ends if statement, prevents if loop
+		}
+		else {  //else argument if size != 0
+			for (int i = 0; i < size - 1; i++) {  //loops through array starting at position in queue (i) is 0, as long as i < size less 1, move through queue by 1 forward
+				queue[i] = queue[i + 1];  // moves position in queue by 1 to allow resize in next line
+			}
+			size--;  //decrease size of array
+		}
+	}
+	void print() {  //declare Queue function print()
+		if (size == 0) {  //define argument for print function using size variable
+			cout << "Queue is empty"<<endl;  //display if size is 0 when print() function is called
+			return;  //ends function, ends if statement, prevents if loop
+		}
+		for (int i = 0; i < size ; i++) {  //loops through array starting at position in queue (i) is 0, as long as i < size (whole queue), move through queue by 1 forward
+			cout<<queue[i]<<" <- ";  //print variable in array queue for each position i
+		}
+		cout <<endl;  //prints end of line command
+	}
+	int add(int q) {  //declare Queue function add() of int type with q as a variable of int type
+			queue[size] = q;  //adds object q to array, affecting parameter size
+		size ++;  //increases size by one per instance of add()
+		return q; //returns q to caller
+	}
+//code goes here to overload+, iterate through q1 then q2, add together...output should be 42->2->8->1->3->66->128->5
+}
+};
+
+int main() {
+	Queue q1; //calls class Queue w/ variable q1
+	q1.add(42); q1.add(2); q1.add(8);  q1.add(1);  //calls add() function for q1 instance
+	Queue q2;  //calls class Queue w/ variable q2
+	q2.add(3); q2.add(66); q2.add(128);  q2.add(5);  //calls add() function for q2 instance
+	Queue q3 = q1+q2;  //calls class Queue w/ variable q3, adds q1 to q2
+	q3.print();  //calls print function with variable q3
+
+	return 0;
+}
+//some code from older problem, previous iteration
+/*int main() {
+	Queue q; //calls class Queue w/ variable attribute q
+	q.add(42); q.add(2); q.add(8); q.add(1);  //calls add() function, inserts values as q
+	q.print();  //calls print function
+	q.remove();  //adjusts queue
+	q.add(128);  //calls add() function, inserts values as q
+	q.print();  //calls print function
+	q.remove();  //adjusts queue
+	q.remove();  //adjusts queue
+	q.print();  //prints queue
+
+	return 0;  //ends function, returns nothing*/
