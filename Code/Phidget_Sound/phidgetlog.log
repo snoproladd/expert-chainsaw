@@ -1,0 +1,230 @@
+2024-08-12T15:11:32.173  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:11:32.181  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:11:32.183  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:11:32.184  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:11:32.188  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00005dbc
+2024-08-12T15:11:32.188  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:11:32.234  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:11:32.234  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:11:32.237  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x718
+2024-08-12T15:11:32.447  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:11:32.447  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:12:02.756  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:12:02.761  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:12:02.762  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:12:02.763  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:12:02.768  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:12:02.768  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00002460
+2024-08-12T15:12:05.914  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:12:05.914  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:12:05.917  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x714
+2024-08-12T15:12:06.157  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:12:06.157  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:13:39.776  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:13:39.779  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:13:39.781  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:13:39.782  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:13:39.784  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00006748
+2024-08-12T15:13:39.784  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:13:42.977  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:13:42.977  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:13:42.982  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x67c
+2024-08-12T15:13:43.190  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:13:43.190  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:16:07.976  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:16:07.979  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:16:07.981  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:16:07.982  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:16:07.984  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00002568
+2024-08-12T15:16:07.984  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:16:11.331  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:16:11.332  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:16:11.337  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x66c
+2024-08-12T15:16:11.389  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:16:11.389  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:26.328  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:56:26.332  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:56:26.334  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:26.335  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:56:26.337  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00006fac
+2024-08-12T15:56:26.337  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:29.624  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:29.625  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:56:29.629  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x680
+2024-08-12T15:56:29.742  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:56:29.742  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:48.449  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-12T15:56:48.453  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-14 | Hub Port: 3
+2024-08-12T15:56:48.454  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:48.454  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:56:48.456  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: USB read thread started: 0x00006e80
+2024-08-12T15:56:48.457  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:53.073  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-12T15:56:53.074  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-12T15:56:53.077  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x674
+2024-08-12T15:56:53.186  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-12T15:56:53.186  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v101 S/N:723415
+2024-08-21T13:27:02.729  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:27:02.733  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:27:02.734  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:27:02.735  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:27:02.737  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00002a54
+2024-08-21T13:27:02.737  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:27:08.018  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:27:08.018  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T13:27:08.021  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x680
+2024-08-21T13:27:08.137  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:27:08.137  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:29:58.943  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:29:58.946  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:29:58.948  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:29:58.948  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:29:58.950  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00004d18
+2024-08-21T13:29:58.950  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:30:00.671  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:30:00.671  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T13:30:00.674  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x67c
+2024-08-21T13:30:00.733  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:30:00.733  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:40:46.175  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:40:46.179  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:40:46.181  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:40:46.181  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:40:46.184  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x000023e8
+2024-08-21T13:40:46.184  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:40:50.678  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:40:50.679  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T13:40:50.684  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x688
+2024-08-21T13:40:50.802  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:40:50.802  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:41:35.851  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:41:35.854  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:41:35.855  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:41:35.856  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:41:35.858  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x000027e4
+2024-08-21T13:41:35.858  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:41:39.518  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:41:39.518  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T13:41:39.523  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x678
+2024-08-21T13:41:39.686  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:41:39.686  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:44:35.355  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:44:35.358  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:44:35.360  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:44:35.360  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:44:35.362  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00000a6c
+2024-08-21T13:44:35.362  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:44:36.367  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:44:36.368  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T13:44:36.372  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x678
+2024-08-21T13:44:36.377  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:44:36.378  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:50:30.433  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T13:50:30.438  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T13:50:30.441  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T13:50:30.441  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T13:50:30.446  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00001f98
+2024-08-21T13:50:30.446  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:13:36.029  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T15:13:36.036  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T15:13:36.038  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:13:36.039  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:13:36.043  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:13:36.044  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00002034
+2024-08-21T15:16:04.566  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T15:16:04.573  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T15:16:04.575  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:16:04.576  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:16:04.579  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00003200
+2024-08-21T15:16:04.579  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:19:48.922  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T15:19:48.928  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T15:19:48.930  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:19:48.931  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:19:48.935  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x000014b0
+2024-08-21T15:19:48.935  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:23:44.841  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T15:23:44.849  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T15:23:44.852  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:23:44.853  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:23:44.857  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:23:44.857  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00004108
+2024-08-21T15:27:13.889  <Info> phidget22 : 
+	******************************  Logging Enabled  ******************************
+	* Phidget22 - Version 1.19 - Built May 13 2024 13:04:42                       *
+	* Release 1.19.20240513 - Windows (64-bit)                                    *
+	*******************************************************************************
+2024-08-21T15:27:13.893  <Info> phidget22usb[AttachUSBDevice()] : Attaching Phidget | Path: \\?\usb#vid_06c2&pid_0047#723415#{ddc0b225-2263-4835-aa6e-55f8b77788fe} | PDO Name: \Device\USBPDO-15 | Hub Port: 3
+2024-08-21T15:27:13.895  <Info> phidget22[deviceAttach()] : (Attach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:27:13.896  <Info> phidget22[deviceAttach()] : (Attach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:27:13.898  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: USB read thread started: 0x00003018
+2024-08-21T15:27:13.898  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:27:15.433  <Info> phidget22vint[PhidgetHubDevice_setPortMode()] : Setting Port: 0 mode to VINT on HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415
+2024-08-21T15:27:15.433  <Info> phidget22[PhidgetUSBReadThreadFunction()] : HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415: ReadThread exiting normally (signaled by Phidget_close)
+2024-08-21T15:27:15.439  <Info> phidget22usb[PhidgetUSBCloseHandle()] : Closing USB Device: 0x67c
+2024-08-21T15:27:15.456  <Info> phidget22[deviceDetach()] : (Detach) SND1000 (Sound Phidget) v102 -> HUB0007 Port:0 S/N:723415
+2024-08-21T15:27:15.456  <Info> phidget22[deviceDetach()] : (Detach) HUB0007 (1-Port USB VINT Hub Phidget) v102 S/N:723415

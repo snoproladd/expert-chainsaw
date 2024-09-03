@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Phidget_Sound", "Phidget_Sound.pyproj", "{60296FF1-0DE4-48BB-9A22-A7BE73F80EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60296FF1-0DE4-48BB-9A22-A7BE73F80EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60296FF1-0DE4-48BB-9A22-A7BE73F80EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD00C728-56A8-4528-94A0-B078CF1B96A9}
+	EndGlobalSection
+EndGlobal
